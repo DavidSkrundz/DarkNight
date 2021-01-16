@@ -1,12 +1,12 @@
 {
 	"name": "DarkNight",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"title": "Dark Night",
 	"description": "Make night completely dark.",
 	"author": "David Skrundz",
 	"contact": "david@skrundz.ca",
 	"homepage": "https://github.com/DavidSkrundz/DarkNight",
-	"factorio_version": "1.0",
+	"factorio_version": "1.1",
 	"dependencies": [
 		"? base"
 	]
